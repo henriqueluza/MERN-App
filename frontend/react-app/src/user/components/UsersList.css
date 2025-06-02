@@ -1,0 +1,24 @@
+.users-list {
+    list-style: none;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    width: 90%;
+    max-width: 60rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+  }
+
+  .center {
+    text-align: center;
+    padding: 3rem 1rem;
+  }
+
+  .center h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #666;
+    font-size: 1.5rem;
+    margin: 0;
+  }
