@@ -1,7 +1,7 @@
 import React from 'react';
 
-const UserPlaces = () = {
-    return
+const UserPlaces = () => {
+  return;
 };
 
 export default UserPlaces;
